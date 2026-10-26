@@ -1,0 +1,14 @@
+{
+  "project": "mary-anning-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "Ey9Chi2phzhJuat7y1WsitEX9d8phvUyvoSdGtoNe3cv",
+  "vault_account": "GG5cSe1qzFvVAnjnofTDcFE2vuGAV5GrpEm3jPARwX2M",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2KHn2DW7rU4YfxV5aGbsTRtGXWynMuyJfmVo7f85FfJQC5U8HdGGT3VhXeSShuyUBAiEM1KvGtuVGxmEBv1kspH9",
+  "account_tx": "2nkpHqo85VXyGeJzm2DiyLiuqVTbMHiWwTwXmJvLXfP1UdBwzDEj4hQ9a4XUj4R2KMXQaibgmwZJQgtptQZ3ih3e",
+  "mint_tx": "4PNZSJRuP5j8FLomMG5xmvmCqtsxSdGt6xNLpi4pJB15WPdTzQryKfwwP7UGsM4TQptTqaGCYhRfDAHh4gikNhei",
+  "solana_explorer_mint": "https://explorer.solana.com/address/Ey9Chi2phzhJuat7y1WsitEX9d8phvUyvoSdGtoNe3cv?cluster=devnet",
+  "timestamp": "2026-10-26 16:48:14 UTC"
+}
